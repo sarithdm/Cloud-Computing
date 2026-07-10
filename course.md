@@ -1,5 +1,3 @@
-<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/4178caad-8a25-4433-baa7-2506020e358e" />9-July
-
 Dear Students,
 
 As part of your cloud computing learning, you are required to complete the Google Cloud Computing Foundations: Infrastructure in Google Cloud course.
