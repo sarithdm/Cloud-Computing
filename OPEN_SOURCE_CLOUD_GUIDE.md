@@ -494,7 +494,7 @@ Perfect for first-time contributors. These projects have good documentation and 
 18. **Gatsby** (https://github.com/gatsbyjs/gatsby)
     - Static site generator; good documentation and plugins
 
-19. **Vue.js** (https://github.com/vuejs/vue)
+19. **Vue** (https://github.com/vuejs/core)
     - JavaScript framework; beginner-friendly issues labeled
 
 20. **Pandas** (https://github.com/pandas-dev/pandas)
@@ -617,10 +617,10 @@ For experienced developers. These require deep system knowledge and significant 
 15. **ClickHouse** (https://github.com/ClickHouse/ClickHouse)
     - OLAP database; query optimization and compression
 
-16. **Wasm** (https://github.com/WebAssembly)
-    - WebAssembly; runtime and specification development
+16. **WebAssembly** (https://github.com/WebAssembly/spec)
+    - WebAssembly specification; runtime and standards development
 
-17. **CRIO** (https://github.com/cri-o/cri-o)
+17. **CRI-O** (https://github.com/cri-o/cri-o)
     - Container runtime interface; low-level container management
 
 18. **containerd** (https://github.com/containerd/containerd)
