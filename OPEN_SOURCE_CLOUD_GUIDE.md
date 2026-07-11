@@ -443,7 +443,7 @@ Perfect for first-time contributors. These projects have good documentation and 
 1. **freeCodeCamp** (https://github.com/freeCodeCamp/freeCodeCamp)
    - JavaScript/React-based learning platform; good first issues labeled
 
-2. **First Timers Only** (https://github.com/firsttimersonly/first-timers-only)
+2. **First Contributions** (https://github.com/firstcontributions/first-contributions)
    - Specifically designed for first-time open source contributors
 
 3. **Good First Issue** (https://github.com/search?q=label:good-first-issue)
@@ -455,16 +455,16 @@ Perfect for first-time contributors. These projects have good documentation and 
 5. **Kubernetes Documentation** (https://github.com/kubernetes/website)
    - Great for documentation contributions; widely used in cloud
 
-6. **Docker Documentation** (https://github.com/docker/docker.io)
+6. **Docker Documentation** (https://github.com/docker/docs)
    - Container basics; documentation improvements needed
 
-7. **Python Project Euler** (https://github.com/projecteuler/projecteuler)
-   - Mathematics and programming; good for learning
+7. **TheAlgorithms - Python** (https://github.com/TheAlgorithms/Python)
+   - Algorithms and mathematics in Python; good for learning
 
 8. **JavaScript 30** (https://github.com/wesbos/JavaScript30)
    - Vanilla JS projects; contribute improvements and additions
 
-9. **100 Days of Code** (https://github.com/100DaysOfCode/100DaysOfCode)
+9. **100 Days of Code** (https://github.com/kallaway/100-days-of-code)
    - Community-driven; easy to contribute resources
 
 10. **Awesome** (https://github.com/sindresorhus/awesome)
@@ -482,7 +482,7 @@ Perfect for first-time contributors. These projects have good documentation and 
 14. **OpenStreetMap** (https://github.com/openstreetmap/openstreetmap-website)
     - Mapping data; documentation and UI improvements
 
-15. **Mozilla Firefox** (https://github.com/mozilla/firefox-source-tree)
+15. **Mozilla Firefox** (https://github.com/mozilla-firefox/firefox)
     - Browser development; good onboarding docs
 
 16. **Ruby on Rails** (https://github.com/rails/rails)
