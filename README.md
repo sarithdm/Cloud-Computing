@@ -10,6 +10,9 @@ Use this file as the practical companion to the syllabus. Read the listed chapte
 
 - [`syllabus.md`](syllabus.md): module-wise reading sequence mapped to the official syllabus
 - [`chapters.md`](chapters.md): chapter list and complete reading order
+- [`course.md`](course.md): Google Cloud Computing Foundations course instructions
+- [`contribute.md`](contribute.md): contribution guidelines for this repository
+- [`OPEN_SOURCE_CLOUD_GUIDE.md`](OPEN_SOURCE_CLOUD_GUIDE.md): guide to contributing to open source and cloud projects with AI agents and APIs
 - `Syllabus_PEITT523_Cloud Computing.pdf`: official course syllabus
 
 ## Module 1: Cloud Computing Foundations
