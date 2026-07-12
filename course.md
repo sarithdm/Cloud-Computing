@@ -19,6 +19,6 @@ Instructions:
 1. Access the course using the link above.
 2. Complete all course modules, quizzes, and assignments.
 
-The course is free to enroll and learn from. But if you want a certificate, you have to register and write the proctored exam conducted by us in person at any of the designated exam centres.
+The course is free to enroll and learn from. But if you want a certificate, you have to register and write the proctored exam conducted by NPTEL in person at any of the designated exam centres.
 The exam is optional for a fee of Rs 1000/- (Rupees one thousand only).
 Date and Time of Exams: October 18, 2026 Morning session 9am to 12 noon; Afternoon Session 2pm to 5pm. 
