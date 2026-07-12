@@ -13,7 +13,7 @@ Instructions:
 Complete the course at the earliest. This introductory course is designed for learners with little or no prior cloud computing experience and provides valuable hands-on experience with Google Cloud. 
 
 ## NPTEL Course: Cloud Computing, IIT Kharagpur by Prof. Soumya Kanti Ghosh
-🔗 https://nptel.ac.in/courses/106105167
+🔗 https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_cs150
 
 Instructions:
 1. Access the course using the link above.
