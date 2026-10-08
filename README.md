@@ -268,3 +268,7 @@ Prices, seller details, ratings, delivery dates, and availability can change on 
 ### Supplemental Material and Code
 
 [Cengage Digital App](https://www.cengage.co.in/cengagedigital) includes: Solutions manual, additional readings, and videos.
+
+### Everything You Need to Know About AWS Student Builder Groups (AWS SBG) 
+
+[AWSSBG](https://github.com/sarithdm/Cloud-Computing/blob/main/Clubs/AWSSBG.md)
